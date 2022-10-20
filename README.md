@@ -1,4 +1,4 @@
-![Professional GIS analyst](https://pbs.twimg.com/profile_banners/1563019173705699333/1661502160/600x200)
+![Professional GIS analyst](https://www.jhsph.edu/sebin/v/z/680x420-spatial-science.jpg)
 ### Hi there 👋, I'm Md. Rakibuzzaman
 #### Professional GIS analyst
 
