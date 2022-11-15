@@ -7,7 +7,7 @@ I'm passionate about advancing GIScience. In particular, I'm working on the Goog
 
 Skills: ArcGIS / QGIS / R Programming / Google Earth Engine / Erdas Imagine
 
-- 👲 I’m currently working on Gazipur City Corporation as a Junior town planner 
+- 👲 I’m currently working at Gazipur City Corporation as a Junior town planner 
 - 🌱 I’m currently learning Google Earth Engine; R programming 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about ArcGIS; QGIS 
