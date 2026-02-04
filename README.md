@@ -15,7 +15,7 @@ Skills: ArcGISPro / QGIS / R Programming / Google Earth Engine / Spatial SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rakib-04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdrakibuzzaman/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakib-04&show_icons=true)
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Rakib-04&show_icons=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakib-04)
 
