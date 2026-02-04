@@ -1,16 +1,16 @@
 ![Professional GIS analyst](https://www.jhsph.edu/sebin/v/z/680x420-spatial-science.jpg)
 ### Hello 👋, I'm Md. Rakibuzzaman
-#### Professional GIS analyst
+#### Graduate student, Department of Geography, University of Georgia
 
 
-I'm passionate about advancing GIScience. In particular, I'm working on the Google Earth engine and R programming to solve different urban spatial issues. I enjoy working with ArcGIS and QGIS software. 
+I am passionate about advancing GIScience and apply spatial data science techniques to address complex urban spatial issues. I enjoy working with data and making informed, data-driven decisions.
 
-Skills: ArcGIS / QGIS / R Programming / Google Earth Engine / Erdas Imagine
+Skills: ArcGISPro / QGIS / R Programming / Google Earth Engine / Spatial SQL
 
 - 👲 Worked as a professional GIS analyst
-- 🌱 I’m learning Google Earth Engine; R programming 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about ArcGIS; QGIS 
+- 🌱 I am always eager to learn new things and take on new challenges
+- 👯 I am interested in collaborating on spatial projects via GitHub
+- 💬 Ask me about ArcGIS Pro; QGIS 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rakib-04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdrakibuzzaman/)  
