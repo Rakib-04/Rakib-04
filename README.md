@@ -1,4 +1,4 @@
-![Professional GIS analyst](https://www.pexels.com/photo/white-and-black-satellite-586063/)
+![Professional GIS analyst](https://images.pexels.com/photos/586063/pexels-photo-586063.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 ### Hello 👋, I'm Md. Rakibuzzaman
 #### Graduate student, Department of Geography, University of Georgia
 
