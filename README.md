@@ -1,5 +1,5 @@
 ![Professional GIS analyst](https://images.unsplash.com/photo-1723306743371-38f6666be1a3?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-### Hello 👋, I'm Md. Rakibuzzaman
+### Hello 👋, I'm Md. Rakibuzzaman (Rakib)
 #### Graduate student, Department of Geography, University of Georgia
 
 
@@ -15,8 +15,8 @@ Skills: ArcGISPro / QGIS / R Programming / Google Earth Engine / Spatial SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rakib-04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdrakibuzzaman/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakib-04&show_icons=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rakib-04) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rakib-04)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakib-04)
 
-![Profile views](https://gpvc.arturio.dev/Rakib-04)  
+![Profile views](https://komarev.com/ghpvc/?username=Rakib-04&label=Profile%20views&color=0e75b6&style=flat)
