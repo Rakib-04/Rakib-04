@@ -1,4 +1,4 @@
-![Professional GIS analyst](https://www.jhsph.edu/sebin/v/z/680x420-spatial-science.jpg)
+![Professional GIS analyst](https://www.pexels.com/photo/white-and-black-satellite-586063/)
 ### Hello 👋, I'm Md. Rakibuzzaman
 #### Graduate student, Department of Geography, University of Georgia
 
